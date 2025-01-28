@@ -5,12 +5,19 @@ A new Flutter project.
  
 ## Tasks which is done is given below:
 Bloc State managment is used: Done
-Api integration: Done
+
+Api integration: Done,
+
 Search functionality: Done
+
 Dark theme support: Done
+
 Retry Functionality: Done (Send pageNumber 0 in api you will get Retry button)
+
 Movie Detail page: Done
-Pagination support: Dne
+
+Pagination support: Done
+
 Error handling: Done (Showing same error messages for all exceptions)
 
 
